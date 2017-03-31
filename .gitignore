@@ -1,3 +1,9 @@
+# UE stuff
 Binaries/
 Intermediate/
 Saved/
+
+# VS stuff
+.vs/
+*.sln
+*.VC.db
